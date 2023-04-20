@@ -1,0 +1,54 @@
+Meeting with the team heads of the organisation, given a clear view regarding the company structure and functioning.
+
+learnt basic theory on:
+    Open source community
+    What is the internet ?
+    Server/Virtual servers
+    HTTP/HTTPS
+    HTTP Status codes
+    APIs
+    What is GIT?
+        GIT commands
+        CI/CD
+        Effective use of GIT
+    Data formats:
+        JSON
+        CSV, TSV
+        XML
+        
+learnt python basics:
+      Indentation - space, tab
+      Data types:
+          str
+          int
+          float
+          boolean
+          list
+          dict
+          tuple
+          set
+          none
+      Basic operations
+      If else
+      Loops
+      Function
+      Class
+      Object
+      OOP concepts
+      self argument
+      Constructor, destructor
+      File operations
+      Positional arguments(args), Keyword arguments(kwargs)
+      return, yield
+      try, except
+      String formatting
+      Generators
+      Module importing
+      Python memory reference
+      List comprehension
+      Exception and errors
+      Code readability, optimization, reliability
+      Python standards - PEP8
+      Best practice coding
+      
+Given a  task on programme based on python basics and operations
