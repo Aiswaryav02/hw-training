@@ -1,0 +1,27 @@
+1) Data loading ajax URL
+https://flipkart.d1.sc.omtrdc.net/b/ss/flipkart-prd/1/JS-1.5.1/s73422666856983?AQB=1&ndh=1&pf=1&t=25%2F3%2F2023%2010%3A31%3A32%202%20-330&mid=40336763693495205096802465981942460175&aamlh=12&ce=UTF-8&ns=flipkart&pageName=Store%20%3AFootwear%7CMen%27s%20Footwear%7CSports%20Shoes&g=https%3A%2F%2Fwww.flipkart.com%2Fmens-footwear%2Fsports-shoes%2Fpr%3Fsid%3Dosp%2Ccil%2C1cu%26otracker%3Dcategorytree&cc=INR&pe=lnk_o&pev2=Search%20Page%20Pagination&pid=Store%20%3AFootwear%7CMen%27s%20Footwear%7CSports%20Shoes&pidt=1&oid=https%3A%2F%2Fwww.flipkart.com%2Fmens-footwear%2Fsports-shoes%2Fpr%3Fsid%3Dosp%252Ccil%252C1cu%26otracker%3Dcategorytree%26pag&ot=A&c1=MensCnFFootwear&v1=MensCnFFootwear&h1=Footwear%7CMen%27s%20Footwear%7CSports%20Shoes&c3=Store%20Browse&v3=Store%20Browse&c4=Store%20%3AFootwear%7CMen%27s%20Footwear%7CSports%20Shoes&c16=MensCnFFootwear&v16=MensCnFFootwear&c17=CasualSpShoe&v17=CasualSpShoe&c19=CnFRunningShoes&v19=CnFRunningShoes&c20=page_2&c54=36&v65=osp%2Fcil%2F1cu&v144=2&s=1920x1080&c=24&j=1.6&v=N&k=Y&bw=1846&bh=980&AQE=1
+
+2)request headers
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+accept-encoding: gzip, deflate, br
+accept-language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+referer: https://www.flipkart.com/
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+
+3)Response Headers
+
+access-control-allow-origin: *
+cache-control: no-cache, no-store, max-age=0, no-transform, private
+content-length: 43
+content-type: image/gif;charset=utf-8
+date: Tue, 25 Apr 2023 05:01:32 GMT
+etag: 3612924110197784576-4619775148566376461
+expires: Mon, 24 Apr 2023 05:01:32 GMT
+last-modified: Wed, 26 Apr 2023 05:01:32 GMT
+
+4)request method type 
+method: GET
+
+5)Response status code
+Status Code: 200 
+
