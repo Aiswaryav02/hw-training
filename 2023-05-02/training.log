@@ -1,0 +1,1 @@
+Rearrange code by function instead of for loop in pagination case and faced issue in url response case
