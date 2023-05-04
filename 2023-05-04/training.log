@@ -1,0 +1,3 @@
+Tried to get data using xpath 
+faced issue in extracting data of each property by requests and xpath
+data is extracted by scrapy shell using xpat
