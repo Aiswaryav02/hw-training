@@ -1,0 +1,4 @@
+Tried to extract data using the code by xpath
+check the xpath of data fields in propertypage 
+breadcrumbs and descriptions returns empty and sellername returns null value
+tried to extract data using xpath in different ways and faced issue in getting data 
