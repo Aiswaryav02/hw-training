@@ -74,7 +74,7 @@ def paginate_olx_data(page=1):
     if not json_data:
         print("end of list")
         return
-    property_count = olxData(json_data)
+    property_count = olx_data(json_data)
     total_count = property_count*page
     paginate_count += 1
    
