@@ -11,7 +11,7 @@ headers = {
   
 }
 
-def olxData(data):
+def olx_data(data):
     property_count = 0
     for i in data['data']:
         items = {
@@ -65,7 +65,7 @@ def property(url, count):
 
     return response.text
 
-def paginateOlxData(page=1):
+def paginate_olx_data(page=1):
     paginate_count = 0
     total_count = 1
     url = f"https://www.olx.in/api/relevance/v4/search?category=1723&facet_limit=100&lang=en-IN&location=4058877&location_facet_limit=20&page={page}&platform=web-desktop&relaxedFilters=true&size=40&user=18797a3b7ebx73f05aab"
@@ -79,7 +79,7 @@ def paginateOlxData(page=1):
     paginate_count += 1
    
     print(f"Total properties count: {total_count}")
-    paginateOlxData(page + 1)
+    paginate_olx_data(page + 1)
 
 if __name__ == "__main__":
-    paginateOlxData()
+    paginate_olx_data()
