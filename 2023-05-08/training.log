@@ -1,3 +1,4 @@
 Tried to extract data from view source using xpath and json loads
 tried to do for a single property
 rearrange the code of complete properties
+description returns as empty list of properties 
