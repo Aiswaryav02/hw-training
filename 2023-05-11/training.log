@@ -1,0 +1,3 @@
+Tried with scrapy shell and the datas can be extracted
+Returns empty list for the same fields while using xpath in code
+Conducted meeting and cleared doubts to overcome the issue faced 
