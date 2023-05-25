@@ -1,0 +1,2 @@
+Tried to extract from the listing page of site using xpath and returned empty list
+tried to extract using json and faced json decode error
