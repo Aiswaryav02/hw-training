@@ -1,0 +1,4 @@
+Tried with conentent type
+started extracting data from edka24 using python requests
+extracted data from main listing page
+created function for url of each category and sub category and tried to extract price 
