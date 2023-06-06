@@ -1855,6 +1855,6 @@ def organic_products():
     vodka()
     vermouth()
     whisky()
-# mainlist()
+mainlist()
 grocery()
 organic_products()
